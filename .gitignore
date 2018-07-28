@@ -1,0 +1,6 @@
+obj/
+bin/
+.idea/
+packages/
+lib/
+*.bat
